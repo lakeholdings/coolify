@@ -15,8 +15,9 @@ No vendor lock-in, which means that all the configurations for your applications
 
 For more information, take a look at our landing page at [coolify.io](https://coolify.io).
 
-
 # Installation
+
+
 
 ```bash
 curl -fsSL https://cdn.coollabs.io/coolify/install.sh | bash
