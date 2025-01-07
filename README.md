@@ -17,6 +17,8 @@ For more information, take a look at our landing page at [coolify.io](https://co
 
 # Installation
 
+
+
 ```bash
 curl -fsSL https://cdn.coollabs.io/coolify/install.sh | bash
 ```
